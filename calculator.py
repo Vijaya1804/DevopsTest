@@ -7,6 +7,6 @@ def sub(x,y,z) 1,2,3:
 def mul(x,y):
     pass
 
-def devi(x,y):
+def devide function(x/y):
     pass
 
